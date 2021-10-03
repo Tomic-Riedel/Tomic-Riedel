@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Icon DeepDive — Analyzing Widgets](https://tomicriedel.medium.com/flutter-icon-deepdive-analyzing-widgets-e81986b70b4b?source=rss-befb172378dc------2)
+- [10 Flutter tips — Part 10/10](https://tomicriedel.medium.com/10-flutter-tips-part-10-10-21406461c7dc?source=rss-befb172378dc------2)
 - [10 Flutter tips — part 9/10](https://tomicriedel.medium.com/10-flutter-tips-part-9-10-313284d5fb37?source=rss-befb172378dc------2)
 - [How to create your own business (with Flutter).](https://tomicriedel.medium.com/how-to-create-your-own-business-with-flutter-174704793fab?source=rss-befb172378dc------2)
 - [10 Flutter tips — Part 8/10](https://tomicriedel.medium.com/10-flutter-tips-part-8-10-59f8fc9d616d?source=rss-befb172378dc------2)
-- [10 Flutter tips — part 7/10](https://tomicriedel.medium.com/10-flutter-tips-part-7-10-94f603b9b6ed?source=rss-befb172378dc------2)
-- [10 Flutter tips — part 6/10](https://tomicriedel.medium.com/10-flutter-tips-part-6-10-f904e7c746fd?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
