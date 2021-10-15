@@ -1,9 +1,9 @@
-name: Update README
+name: Update README Activity
 
 on:
   schedule:
-    # Runs every 5 minutes
-    - cron: '*/5 * * * *'
+    # Runs every 10 minutes
+    - cron: '*/10 * * * *'
 
 jobs:
   build:
