@@ -33,7 +33,7 @@
 
 <h3 align="left">My latest GitHub activities:</h3>
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 
 <h3 align="left">My stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomic-riedel&show_icons=true&locale=en&layout=compact" alt="tomic-riedel" /></p>
