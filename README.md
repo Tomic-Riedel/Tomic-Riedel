@@ -34,6 +34,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com/kimmanwky/Motion-Tab-Bar/issues/2) in [kimmanwky/Motion-Tab-Bar](https://github.com/kimmanwky/Motion-Tab-Bar)
 <!--END_SECTION:activity-->
 
 <h3 align="left">My stats:</h3>
