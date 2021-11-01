@@ -38,6 +38,7 @@
 <!--END_SECTION:activity-->
 
 <h3 align="left">My stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomic-riedel&show_icons=true&locale=en&layout=compact" alt="tomic-riedel" /></p>
+<p><a href="https://github.com/Tomic-Riedel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomic-riedel"/></p>
 <p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomic-riedel&show_icons=true&locale=en" alt="tomic-riedel" /></p>
