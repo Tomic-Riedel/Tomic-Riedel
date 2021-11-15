@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 tips to dramatically increase your productivity &lpar;and a bonus tip&rpar;](https://tomicriedel.medium.com/10-tips-to-dramatically-increase-your-productivity-and-a-bonus-tip-49530d95854d?source=rss-befb172378dc------2)
 - [10 Flutter tips — season 2 — part 2/10](https://tomicriedel.medium.com/10-flutter-tips-season-2-part-2-10-491408453c77?source=rss-befb172378dc------2)
 - [Flutter Roadmap — Learn. Flutter. Free.](https://tomicriedel.medium.com/flutter-roadmap-learn-flutter-free-e7ad4ec359a?source=rss-befb172378dc------2)
 - [10 Flutter tips — season 2 — part 1/10](https://tomicriedel.medium.com/10-flutter-tips-season-2-part-1-10-6c7379520c50?source=rss-befb172378dc------2)
 - [Flutter Icon DeepDive — Analyzing Widgets](https://tomicriedel.medium.com/flutter-icon-deepdive-analyzing-widgets-e81986b70b4b?source=rss-befb172378dc------2)
-- [10 Flutter tips — Part 10/10](https://tomicriedel.medium.com/10-flutter-tips-part-10-10-21406461c7dc?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
