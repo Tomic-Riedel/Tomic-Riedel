@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Dart & Flutter Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/tomicriedel" target="blank"><img src="https://img.shields.io/twitter/follow/tomicriedel?logo=twitter&style=for-the-badge" alt="tomicriedel" /></a> </p>
-![wakatime](https://wakatime.com/badge/user/c90d3dc2-7fc5-416e-8532-caed04e872a1.svg)](https://wakatime.com/@c90d3dc2-7fc5-416e-8532-caed04e872a1)
+<a href="https://wakatime.com/badge/user/c90d3dc2-7fc5-416e-8532-caed04e872a1.svg" target="_blank"> <img src="https://wakatime.com/badge/user/c90d3dc2-7fc5-416e-8532-caed04e872a1.svg" alt="css3" width="40" height="40"/> </a> 
 
 - 🔭 I’m currently working on **[Flutter Roadmap](https://github.com/Tomic-Riedel/Flutter-Roadmap)**
 
