@@ -34,7 +34,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/kimmanwky/Motion-Tab-Bar/issues/2) in [kimmanwky/Motion-Tab-Bar](https://github.com/kimmanwky/Motion-Tab-Bar)
+1. 🗣 Commented on [#26](https://github.com/supabase/gotrue-dart/issues/26) in [supabase/gotrue-dart](https://github.com/supabase/gotrue-dart)
 <!--END_SECTION:activity-->
 
 <h3 align="left">My stats:</h3>
