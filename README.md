@@ -34,7 +34,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/supabase/gotrue-dart/issues/26) in [supabase/gotrue-dart](https://github.com/supabase/gotrue-dart)
+1. ❗️ Opened issue [#279](https://github.com/letsar/flutter_slidable/issues/279) in [letsar/flutter_slidable](https://github.com/letsar/flutter_slidable)
 <!--END_SECTION:activity-->
 
 <h3 align="left">My stats:</h3>
