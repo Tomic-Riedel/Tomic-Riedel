@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to copy text to clipboard in Flutter — Flutter small explanations](https://tomicriedel.medium.com/how-to-copy-text-to-clipboard-in-flutter-flutter-small-explanations-dd085cefc079?source=rss-befb172378dc------2)
-- [Best nav bar packages for Flutter](https://tomicriedel.medium.com/best-nav-bar-packages-for-flutter-3ea86aed1e65?source=rss-befb172378dc------2)
-- [10 Flutter tips — part4/10 — season 2](https://tomicriedel.medium.com/10-flutter-tips-part4-10-season-2-260e23214e3f?source=rss-befb172378dc------2)
-- [I forced myself not to use a computer mouse! This is what happened!](https://tomicriedel.medium.com/i-forced-myself-not-to-use-a-computer-mouse-this-is-what-happened-f168125657be?source=rss-befb172378dc------2)
-- [10 Flutter tips — season 2 — part 3/10](https://tomicriedel.medium.com/10-flutter-tips-season-2-part-3-10-15c88da72c2c?source=rss-befb172378dc------2)
+- [10 Flutter tips — season 2 — part 3/10](https://tomicriedel.medium.com/10-flutter-tips-season-2-part-3-10-98ca17250e5b?source=rss-befb172378dc------2)
+- [Flutter AnimatedSize DeepDive — Analyzing Widget](https://tomicriedel.medium.com/flutter-animatedsize-deepdive-analyzing-widget-acb7ea8d807e?source=rss-befb172378dc------2)
+- [Flutter AnimatedSize DeepDive — Analyzing Widget &lpar;German Version&rpar;](https://tomicriedel.medium.com/flutter-animatedsize-deepdive-analyzing-widget-german-version-221b79c79cf7?source=rss-befb172378dc------2)
+- [10 tips to dramatically increase your productivity &lpar;and a bonus tip&rpar;](https://tomicriedel.medium.com/10-tips-to-dramatically-increase-your-productivity-and-a-bonus-tip-1fabc60f786c?source=rss-befb172378dc------2)
+- [10 Flutter tips — season 2 — part 2/10](https://tomicriedel.medium.com/10-flutter-tips-season-2-part-2-10-e4b22ecccb1?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
