@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Freezed — The complete Crashcourse](https://tomicriedel.medium.com/flutter-freezed-the-complete-crashcourse-c942e9aa2428?source=rss-befb172378dc------2)
 - [10 Flutter tips — season 2 — part 3/10](https://tomicriedel.medium.com/10-flutter-tips-season-2-part-3-10-98ca17250e5b?source=rss-befb172378dc------2)
 - [Flutter AnimatedSize DeepDive — Analyzing Widget](https://tomicriedel.medium.com/flutter-animatedsize-deepdive-analyzing-widget-acb7ea8d807e?source=rss-befb172378dc------2)
 - [Flutter AnimatedSize DeepDive — Analyzing Widget &lpar;German Version&rpar;](https://tomicriedel.medium.com/flutter-animatedsize-deepdive-analyzing-widget-german-version-221b79c79cf7?source=rss-befb172378dc------2)
 - [10 tips to dramatically increase your productivity &lpar;and a bonus tip&rpar;](https://tomicriedel.medium.com/10-tips-to-dramatically-increase-your-productivity-and-a-bonus-tip-1fabc60f786c?source=rss-befb172378dc------2)
-- [10 Flutter tips — season 2 — part 2/10](https://tomicriedel.medium.com/10-flutter-tips-season-2-part-2-10-e4b22ecccb1?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
