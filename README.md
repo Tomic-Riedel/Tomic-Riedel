@@ -34,7 +34,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#279](https://github.com/letsar/flutter_slidable/issues/279) in [letsar/flutter_slidable](https://github.com/letsar/flutter_slidable)
+1. ❌ Reopened PR [#141](https://github.com/justkawal/excel/pull/141) in [justkawal/excel](https://github.com/justkawal/excel)
 <!--END_SECTION:activity-->
 
 <h3 align="left">My stats:</h3>
