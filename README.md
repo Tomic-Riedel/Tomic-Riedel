@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Isar Database — The complete crash course — part 1](https://tomicriedel.medium.com/flutter-isar-database-the-complete-crash-course-part-1-bbd08aa7cc4e?source=rss-befb172378dc------2)
 - [MergeSort in Dart — Sorting Algorithms](https://tomicriedel.medium.com/mergesort-in-dart-sorting-algorithms-c62bde377533?source=rss-befb172378dc------2)
 - [Flutter AnimatedSize DeepDive — Analyzing Widget &lpar;German Version&rpar;](https://tomicriedel.medium.com/flutter-animatedsize-deepdive-analyzing-widget-german-version-ad9ab0f9f965?source=rss-befb172378dc------2)
 - [10 Flutter tips — season 2 — part 3/10](https://tomicriedel.medium.com/10-flutter-tips-season-2-part-3-10-cd80359d8037?source=rss-befb172378dc------2)
 - [Flutter AnimatedSize DeepDive — Analyzing Widget](https://tomicriedel.medium.com/flutter-animatedsize-deepdive-analyzing-widget-ef0a43dc9bc6?source=rss-befb172378dc------2)
-- [10 tips to dramatically increase your productivity &lpar;and a bonus tip&rpar;](https://tomicriedel.medium.com/10-tips-to-dramatically-increase-your-productivity-and-a-bonus-tip-841cd51bc33c?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
