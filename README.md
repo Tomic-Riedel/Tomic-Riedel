@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I forced myself not to use a computer mouse — This is what happend!](https://tomicriedel.medium.com/i-forced-myself-not-to-use-a-computer-mouse-this-is-what-happend-13459f9b72f5?source=rss-befb172378dc------2)
 - [Flutter Isar Database — The complete crash course — part 3](https://tomicriedel.medium.com/flutter-isar-database-the-complete-crash-course-part-3-91da5b8cd5c7?source=rss-befb172378dc------2)
 - [Learn Flutter &amp; Dart like a pro — Dart Basics](https://tomicriedel.medium.com/learn-flutter-dart-like-a-pro-dart-basics-1395d8ac5c55?source=rss-befb172378dc------2)
 - [Flutter Isar Database — The complete crash course — part 2](https://tomicriedel.medium.com/flutter-isar-database-the-complete-crash-course-part-2-baba44f2fae4?source=rss-befb172378dc------2)
 - [Learn Flutter &amp; Dart like a pro — The Basics](https://tomicriedel.medium.com/learn-flutter-dart-like-a-pro-the-basics-77ba3a89ee98?source=rss-befb172378dc------2)
-- [Flutter Isar Database — The complete crash course — part 1](https://tomicriedel.medium.com/flutter-isar-database-the-complete-crash-course-part-1-bbd08aa7cc4e?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
