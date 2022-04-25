@@ -34,7 +34,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#141](https://github.com/justkawal/excel/pull/141) in [justkawal/excel](https://github.com/justkawal/excel)
+1. 💪 Opened PR [#3400](https://github.com/dart-lang/pub/pull/3400) in [dart-lang/pub](https://github.com/dart-lang/pub)
 <!--END_SECTION:activity-->
 
 <h3 align="left">My stats:</h3>
