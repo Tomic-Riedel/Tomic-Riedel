@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn LaTeX in under 3 minutes!](https://tomicriedel.medium.com/learn-latex-in-under-3-minutes-87283afcef0?source=rss-befb172378dc------2)
+- [Lerne LaTeX in 3 Minuten &lpar;Deutsch&rpar;](https://tomicriedel.medium.com/lerne-latex-in-3-minuten-deutsch-a5f8979851c2?source=rss-befb172378dc------2)
 - [4 extremely useful Flutter tips that you can use right away!](https://tomicriedel.medium.com/4-extremely-useful-flutter-tips-57686f1e3707?source=rss-befb172378dc------2)
 - [10 Flutter tips — season 2 — part 5/10](https://tomicriedel.medium.com/10-flutter-tips-season-2-part-5-10-e8152b58935a?source=rss-befb172378dc------2)
 - [BubbleSort in Dart — Sorting Algorithms](https://tomicriedel.medium.com/bubblesort-in-dart-sorting-algorithms-7bb568e9f888?source=rss-befb172378dc------2)
-- [I forced myself not to use a computer mouse — This is what happend!](https://tomicriedel.medium.com/i-forced-myself-not-to-use-a-computer-mouse-this-is-what-happend-13459f9b72f5?source=rss-befb172378dc------2)
-- [Flutter Isar Database — The complete crash course — part 3](https://tomicriedel.medium.com/flutter-isar-database-the-complete-crash-course-part-3-91da5b8cd5c7?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
