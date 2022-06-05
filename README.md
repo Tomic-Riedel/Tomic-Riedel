@@ -38,6 +38,6 @@
 <!--END_SECTION:activity-->
 
 <h3 align="left">My stats:</h3>
-<p><embed src="https://wakatime.com/share/@TomicRiedel/da2a4be9-fd89-4ac4-aa5d-c90ef3a599df.svg"></embed></p>
+<p>&nbsp;<img align="center" src="https://wakatime.com/share/@TomicRiedel/da2a4be9-fd89-4ac4-aa5d-c90ef3a599df.svg" alt="tomic-riedel" /></p>
 <p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomic-riedel&show_icons=true&locale=en" alt="tomic-riedel" /></p>
