@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tomicriedel" target="blank"><img src="https://img.shields.io/twitter/follow/tomicriedel?logo=twitter&style=for-the-badge" alt="tomicriedel" /></a> </p>
 
-- 🔭 I’m currently working on **[Flutter Roadmap](https://github.com/Tomic-Riedel/Flutter-Roadmap)**
+- 🔭 I’m currently working on **[Flutter Roadmap](https://github.com/Tomic-Riedel/Flutter-Roadmap)** (And a secret project)
 
 - 🌱 I’m currently learning **Flutter, Dart & Supabase**
 
