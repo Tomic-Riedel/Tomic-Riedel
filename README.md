@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Flutter Repositories that will boost your career immediately!](https://tomicriedel.medium.com/3c9eb2ded0dd?source=rss-befb172378dc------2)
+- [InsertionSort Crashcourse](https://tomicriedel.medium.com/insertionsort-crashcourse-51bdbe8681c0?source=rss-befb172378dc------2)
 - [10 Flutter tips — part 6/10](https://tomicriedel.medium.com/10-flutter-tips-part-6-10-8c9c441c8f4a?source=rss-befb172378dc------2)
 - [How to learn a programming language in 3 days!](https://tomicriedel.medium.com/how-to-learn-a-programming-language-in-3-days-94fdbe3030cb?source=rss-befb172378dc------2)
 - [3 Tips to hack your Flutter productivity that you can use right away!](https://tomicriedel.medium.com/3-tips-to-hack-your-flutter-productivity-that-you-can-use-right-away-d809812d7079?source=rss-befb172378dc------2)
-- [3 incredible Flutter open source projects you have to take a look at!](https://tomicriedel.medium.com/3-incredible-flutter-open-source-projects-you-have-to-take-a-look-at-5a68e0eace0?source=rss-befb172378dc------2)
-- [Learn LaTeX in under 3 minutes!](https://tomicriedel.medium.com/learn-latex-in-under-3-minutes-87283afcef0?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
