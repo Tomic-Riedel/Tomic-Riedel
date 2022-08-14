@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Hooks CrashCourse](https://tomicriedel.medium.com/flutter-hooks-crashcourse-72e57de4792c?source=rss-befb172378dc------2)
 - [4 Flutter Repositories that will boost your career immediately!](https://tomicriedel.medium.com/3c9eb2ded0dd?source=rss-befb172378dc------2)
 - [InsertionSort Crashcourse](https://tomicriedel.medium.com/insertionsort-crashcourse-51bdbe8681c0?source=rss-befb172378dc------2)
 - [10 Flutter tips — part 6/10](https://tomicriedel.medium.com/10-flutter-tips-part-6-10-8c9c441c8f4a?source=rss-befb172378dc------2)
 - [How to learn a programming language in 3 days!](https://tomicriedel.medium.com/how-to-learn-a-programming-language-in-3-days-94fdbe3030cb?source=rss-befb172378dc------2)
-- [3 Tips to hack your Flutter productivity that you can use right away!](https://tomicriedel.medium.com/3-tips-to-hack-your-flutter-productivity-that-you-can-use-right-away-d809812d7079?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
