@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Dio explained — The complete crash course](https://tomicriedel.medium.com/f3fbd1fc3bca?source=rss-befb172378dc------2)
 - [Flutter Riverpod — The complete crash course](https://tomicriedel.medium.com/f96636cae804?source=rss-befb172378dc------2)
 - [Flutter Hive — The complete crash course](https://tomicriedel.medium.com/42ea3bb85189?source=rss-befb172378dc------2)
 - [Flutter Formz explained — The complete crash course](https://tomicriedel.medium.com/716d9ec9e844?source=rss-befb172378dc------2)
 - [Flutter Hooks CrashCourse](https://tomicriedel.medium.com/flutter-hooks-crashcourse-72e57de4792c?source=rss-befb172378dc------2)
-- [4 Flutter Repositories that will boost your career immediately!](https://tomicriedel.medium.com/3c9eb2ded0dd?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
