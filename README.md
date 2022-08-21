@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Isar Database — part 4 — Filter data](https://tomicriedel.medium.com/d4bda93480d2?source=rss-befb172378dc------2)
 - [Flutter FVM — Boost your Flutter productivity by 100%](https://tomicriedel.medium.com/e3761417f085?source=rss-befb172378dc------2)
 - [Flutter Dio explained — The complete crash course](https://tomicriedel.medium.com/f3fbd1fc3bca?source=rss-befb172378dc------2)
 - [Flutter Riverpod — The complete crash course](https://tomicriedel.medium.com/f96636cae804?source=rss-befb172378dc------2)
 - [Flutter Hive — The complete crash course](https://tomicriedel.medium.com/42ea3bb85189?source=rss-befb172378dc------2)
-- [Flutter Formz explained — The complete crash course](https://tomicriedel.medium.com/716d9ec9e844?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
