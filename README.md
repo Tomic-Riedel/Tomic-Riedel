@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The ultimate guide to testing in Flutter](https://tomicriedel.medium.com/490a577fe077?source=rss-befb172378dc------2)
+- [Flutter Isar Database — Part 6 — Transactions](https://tomicriedel.medium.com/f88555c19047?source=rss-befb172378dc------2)
 - [Flutter Sembast — The Complete Crash Course](https://tomicriedel.medium.com/cf4fe226a3f3?source=rss-befb172378dc------2)
 - [Fluter GoRouter — The Complete Crash Course](https://tomicriedel.medium.com/6c4545f2cfac?source=rss-befb172378dc------2)
 - [Flutter Isar Database — part 5 — Advanced Querying](https://tomicriedel.medium.com/5125c6769f29?source=rss-befb172378dc------2)
-- [5 mind-blowing Flutter tips and tricks, that you can use right away!](https://tomicriedel.medium.com/a0fb378024e0?source=rss-befb172378dc------2)
-- [Flutter logger — The complete crash course](https://tomicriedel.medium.com/11de3a37dd20?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
