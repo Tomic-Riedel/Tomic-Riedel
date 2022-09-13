@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Dart on Servers with Dart Frog — The complete crash course](https://tomicriedel.medium.com/cff6fc9f033b?source=rss-befb172378dc------2)
 - [The ultimate guide to testing in Flutter](https://tomicriedel.medium.com/490a577fe077?source=rss-befb172378dc------2)
 - [Flutter Isar Database — Part 6 — Transactions](https://tomicriedel.medium.com/f88555c19047?source=rss-befb172378dc------2)
 - [Flutter Sembast — The Complete Crash Course](https://tomicriedel.medium.com/cf4fe226a3f3?source=rss-befb172378dc------2)
 - [Fluter GoRouter — The Complete Crash Course](https://tomicriedel.medium.com/6c4545f2cfac?source=rss-befb172378dc------2)
-- [Flutter Isar Database — part 5 — Advanced Querying](https://tomicriedel.medium.com/5125c6769f29?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
