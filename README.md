@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Appwrite — The Complete Crash Course](https://tomicriedel.medium.com/d4e8cf567e2f?source=rss-befb172378dc------2)
 - [Should I use Teta to Create Flutter Apps Faster?](https://tomicriedel.medium.com/e3d45aae1692?source=rss-befb172378dc------2)
 - [Flutter ARKit — the complete crash course](https://tomicriedel.medium.com/4007f8b7f945?source=rss-befb172378dc------2)
 - [The Best Flutter Performance Tips you can Find!](https://tomicriedel.medium.com/8aa27e0baea0?source=rss-befb172378dc------2)
 - [Maintain great Dart Code Quality with these Simple Tips](https://tomicriedel.medium.com/fe93733c04fc?source=rss-befb172378dc------2)
-- [Use Dart on Servers with Dart Frog — The complete crash course](https://tomicriedel.medium.com/cff6fc9f033b?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
