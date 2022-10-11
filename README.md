@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to draw in Flutter — The Complete Crash Course](https://tomicriedel.medium.com/52221909e722?source=rss-befb172378dc------2)
 - [Dart Frog — The Advanced Crash Course](https://tomicriedel.medium.com/4278f1bbfc58?source=rss-befb172378dc------2)
 - [Use Local SQL with Dart Drift — The Crash Course](https://tomicriedel.medium.com/dc97b7f088c2?source=rss-befb172378dc------2)
 - [Flutter Appwrite — The Complete Crash Course](https://tomicriedel.medium.com/d4e8cf567e2f?source=rss-befb172378dc------2)
 - [Should I use Teta to Create Flutter Apps Faster?](https://tomicriedel.medium.com/e3d45aae1692?source=rss-befb172378dc------2)
-- [Flutter ARKit — the complete crash course](https://tomicriedel.medium.com/4007f8b7f945?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
