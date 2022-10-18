@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The History of Flutter in less than 3 minutes!](https://tomicriedel.medium.com/the-history-of-flutter-in-less-than-3-minutes-db8dd56985fb?source=rss-befb172378dc------2)
 - [Use GitHub Actions with Flutter — Crash Course](https://tomicriedel.medium.com/857faad16671?source=rss-befb172378dc------2)
 - [How to draw in Flutter — The Complete Crash Course](https://tomicriedel.medium.com/52221909e722?source=rss-befb172378dc------2)
 - [Dart Frog — The Advanced Crash Course](https://tomicriedel.medium.com/4278f1bbfc58?source=rss-befb172378dc------2)
 - [Use Local SQL with Dart Drift — The Crash Course](https://tomicriedel.medium.com/dc97b7f088c2?source=rss-befb172378dc------2)
-- [Flutter Appwrite — The Complete Crash Course](https://tomicriedel.medium.com/d4e8cf567e2f?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
