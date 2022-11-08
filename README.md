@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CupertinoIcons — All Cupertino Widgets](https://tomicriedel.medium.com/5f00ad99068b?source=rss-befb172378dc------2)
 - [CupertinoButton — All Cupertino Widgets](https://tomicriedel.medium.com/e493abbd6ac?source=rss-befb172378dc------2)
 - [CupertinoTabBar — All Cupertino Widgets](https://tomicriedel.medium.com/844fdeb06aa8?source=rss-befb172378dc------2)
 - [Flutter Supabase — The Complete Crash Course](https://tomicriedel.medium.com/208562290147?source=rss-befb172378dc------2)
 - [CupertinoThemeData — All Cupertino Widgets](https://tomicriedel.medium.com/d0bbdc957f1e?source=rss-befb172378dc------2)
-- [CupertinoApp — All CupertinoWidgets](https://tomicriedel.medium.com/299bce3f6f64?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
