@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CupertinoPageTransition — All Cupertino Widgets](https://tomicriedel.medium.com/75a390c83fe3?source=rss-befb172378dc------2)
 - [CupertinoTimerPicker — All Cupertino Widgets](https://tomicriedel.medium.com/b0ec4d11c629?source=rss-befb172378dc------2)
 - [CupertinoPicker — All Cupertino Widgets](https://tomicriedel.medium.com/fb73e4168592?source=rss-befb172378dc------2)
 - [CupertinoNavigationBar — All Cupertino Widgets](https://tomicriedel.medium.com/4ef18775f8ea?source=rss-befb172378dc------2)
 - [CupertionFullscreenDialogTransition – All Cupertino Widgets](https://tomicriedel.medium.com/bea931268cb2?source=rss-befb172378dc------2)
-- [CupertinoDatePicker — All Cupertino Widgets](https://tomicriedel.medium.com/1abbc2b5b8d8?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
