@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[Flutter Roadmap](https://github.com/Tomic-Riedel/Flutter-Roadmap)** (And a secret project)
 
-- 🌱 I’m currently learning **Flutter, Dart & Supabase**
+- 🌱 I’m currently learning **Flutter, Dart & Appwrite**
 
 - 📝 I regularly write articles on [tomicriedel.medium.com](tomicriedel.medium.com)
 
