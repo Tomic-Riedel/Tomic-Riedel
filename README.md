@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Get More Done, Save Time: This App Will Change Your Life](https://tomicriedel.medium.com/get-more-done-save-time-this-app-will-change-your-life-885b02b6ebd1?source=rss-befb172378dc------2)
 - [CupertinoSliverNavigationBar — All Cupertino Widgets](https://tomicriedel.medium.com/43a2d0ba1bec?source=rss-befb172378dc------2)
 - [CupertinoSlider — All Cupertino Widgets](https://tomicriedel.medium.com/66a06173c0c7?source=rss-befb172378dc------2)
 - [CupertinoSlidingSegmentedControl — All Cupertino Widgets](https://tomicriedel.medium.com/74921e114600?source=rss-befb172378dc------2)
 - [CupertinoSegmentedControl — All Cupertino Widgets](https://tomicriedel.medium.com/804a43f52dd0?source=rss-befb172378dc------2)
-- [CupertinoSearchTextField — All Cupertino Widgets](https://tomicriedel.medium.com/5b7da5101e2f?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
