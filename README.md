@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Indie Dev Journey: Week #2](https://tomicriedel.medium.com/my-indie-dev-journey-week-2-6d7a53f1798f?source=rss-befb172378dc------2)
 - [My Indie Dev Journey: Week #1](https://tomicriedel.medium.com/my-indie-dev-week-1-71d3987eea04?source=rss-befb172378dc------2)
 - [Get More Done, Save Time: This App Will Change Your Life](https://tomicriedel.medium.com/get-more-done-save-time-this-app-will-change-your-life-885b02b6ebd1?source=rss-befb172378dc------2)
 - [CupertinoSliverNavigationBar — All Cupertino Widgets](https://tomicriedel.medium.com/43a2d0ba1bec?source=rss-befb172378dc------2)
 - [CupertinoSlider — All Cupertino Widgets](https://tomicriedel.medium.com/66a06173c0c7?source=rss-befb172378dc------2)
-- [CupertinoSlidingSegmentedControl — All Cupertino Widgets](https://tomicriedel.medium.com/74921e114600?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
