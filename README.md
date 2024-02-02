@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debug your Flutter App like a Pro with these 5 Tips &amp; Tricks!](https://tomicriedel.medium.com/debug-your-flutter-app-like-a-pro-with-these-5-tips-tricks-5ede654dddb4?source=rss-befb172378dc------2)
 - [Embracing Chaos: Simulating a Double Pendulum with Flutter](https://tomicriedel.medium.com/embracing-chaos-simulating-a-double-pendulum-with-flutter-7da722357b40?source=rss-befb172378dc------2)
 - [My Indie Dev Journey: Week #2](https://tomicriedel.medium.com/my-indie-dev-journey-week-2-6d7a53f1798f?source=rss-befb172378dc------2)
 - [My Indie Dev Journey: Week #1](https://tomicriedel.medium.com/my-indie-dev-week-1-71d3987eea04?source=rss-befb172378dc------2)
 - [Get More Done, Save Time: This App Will Change Your Life](https://tomicriedel.medium.com/get-more-done-save-time-this-app-will-change-your-life-885b02b6ebd1?source=rss-befb172378dc------2)
-- [CupertinoSliverNavigationBar — All Cupertino Widgets](https://tomicriedel.medium.com/43a2d0ba1bec?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
