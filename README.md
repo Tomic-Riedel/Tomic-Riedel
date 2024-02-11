@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter’s Dependence on Third-Party Libraries: A Blessing or a Curse?](https://tomicriedel.medium.com/flutters-dependence-on-third-party-libraries-a-blessing-or-a-curse-cd4fb5cb7552?source=rss-befb172378dc------2)
 - [Master Flutter in VSCode with these 5 mind-blowing tips &amp; tricks!](https://tomicriedel.medium.com/master-flutter-in-vscode-with-these-5-mind-blowing-tips-tricks-a76d88423c7b?source=rss-befb172378dc------2)
 - [Master Accessibility in Flutter &lpar;without the hassle&rpar;](https://tomicriedel.medium.com/master-accessibility-in-flutter-without-the-hassle-a8b83b211509?source=rss-befb172378dc------2)
 - [People are going crazy about Apple Vision Pro!](https://tomicriedel.medium.com/people-are-going-crazy-about-apple-vision-3c32117b0df6?source=rss-befb172378dc------2)
 - [Develop before the Hype: Create your Flutter App for Apple Vision Pro](https://tomicriedel.medium.com/develop-before-the-hype-create-your-flutter-app-for-apple-vision-pro-463f3025228f?source=rss-befb172378dc------2)
-- [Debug your Flutter App like a Pro with these 5 Tips &amp; Tricks!](https://tomicriedel.medium.com/debug-your-flutter-app-like-a-pro-with-these-5-tips-tricks-5ede654dddb4?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
