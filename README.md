@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [This new feature will change the way I use Appwrite!](https://tomicriedel.medium.com/this-new-feature-will-change-the-way-i-use-appwrite-b3042cefe804?source=rss-befb172378dc------2)
+- [From Good to Great: How Adopting SOLID Principles Can Save Your Flutter App from Disaster](https://tomicriedel.medium.com/your-first-steps-to-robust-code-solid-principle-in-flutter-267fc5171223?source=rss-befb172378dc------2)
 - [Understanding Impeller: A deep-dive into Flutter’s Rendering Engine](https://tomicriedel.medium.com/understanding-impeller-a-deep-dive-into-flutters-rendering-engine-ba96db0c9614?source=rss-befb172378dc------2)
 - [Flutter’s Dependence on Third-Party Libraries: A Blessing or a Curse?](https://tomicriedel.medium.com/flutters-dependence-on-third-party-libraries-a-blessing-or-a-curse-cd4fb5cb7552?source=rss-befb172378dc------2)
 - [Master Flutter in VSCode with these 5 mind-blowing tips &amp; tricks!](https://tomicriedel.medium.com/master-flutter-in-vscode-with-these-5-mind-blowing-tips-tricks-a76d88423c7b?source=rss-befb172378dc------2)
-- [Master Accessibility in Flutter &lpar;without the hassle&rpar;](https://tomicriedel.medium.com/master-accessibility-in-flutter-without-the-hassle-a8b83b211509?source=rss-befb172378dc------2)
-- [People are going crazy about Apple Vision Pro!](https://tomicriedel.medium.com/people-are-going-crazy-about-apple-vision-3c32117b0df6?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
