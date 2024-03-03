@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Mistakes I Won’t Do Again After Releasing My First App](https://tomicriedel.medium.com/4-mistakes-i-wont-do-again-after-releasing-my-first-app-9f6cee5aae5f?source=rss-befb172378dc------2)
 - [This new feature will change the way I use Appwrite!](https://tomicriedel.medium.com/this-new-feature-will-change-the-way-i-use-appwrite-b3042cefe804?source=rss-befb172378dc------2)
 - [From Good to Great: How Adopting SOLID Principles Can Save Your Flutter App from Disaster](https://tomicriedel.medium.com/your-first-steps-to-robust-code-solid-principle-in-flutter-267fc5171223?source=rss-befb172378dc------2)
 - [Understanding Impeller: A deep-dive into Flutter’s Rendering Engine](https://tomicriedel.medium.com/understanding-impeller-a-deep-dive-into-flutters-rendering-engine-ba96db0c9614?source=rss-befb172378dc------2)
 - [Flutter’s Dependence on Third-Party Libraries: A Blessing or a Curse?](https://tomicriedel.medium.com/flutters-dependence-on-third-party-libraries-a-blessing-or-a-curse-cd4fb5cb7552?source=rss-befb172378dc------2)
-- [Master Flutter in VSCode with these 5 mind-blowing tips &amp; tricks!](https://tomicriedel.medium.com/master-flutter-in-vscode-with-these-5-mind-blowing-tips-tricks-a76d88423c7b?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
