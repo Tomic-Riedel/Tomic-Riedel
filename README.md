@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding with Confidence: Master Testing in Flutter in record time!](https://blog.stackademic.com/mastering-testing-in-flutter-strategies-fb327e6a954b?source=rss-befb172378dc------2)
 - [The Complete Guide to Integration Testing in Flutter](https://blog.stackademic.com/master-integration-testing-in-flutter-in-less-than-5-minutes-efd650f4762e?source=rss-befb172378dc------2)
 - [The Complete Guide to Widget Testing in Flutter](https://blog.stackademic.com/the-complete-guide-to-widget-testing-in-flutter-313567cb8904?source=rss-befb172378dc------2)
 - [The Complete Guide To Unit Testing in Flutter](https://tomicriedel.medium.com/the-complete-guide-to-unit-testing-in-flutter-08151f04db9d?source=rss-befb172378dc------2)
 - [These 4 Mistakes are going to ruin your first app launch.](https://tomicriedel.medium.com/4-deadly-mistakes-i-did-when-releasing-my-first-app-cb9c22dc1002?source=rss-befb172378dc------2)
-- [This new feature will change the way I use Appwrite!](https://tomicriedel.medium.com/this-new-feature-will-change-the-way-i-use-appwrite-b3042cefe804?source=rss-befb172378dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
