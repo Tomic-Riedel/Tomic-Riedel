@@ -18,7 +18,5 @@ I'm Tomic, a 16-year-old student living in the beautiful nature of Germany. I lo
 ## 🛠 Skills
 Flutter, Dart, Javascript, TypeScript, Python, Firebase, Appwrite, MySQL, PostgreSQL,
 
-<p align="left"> <a href="https://twitter.com/tomicriedel" target="blank"><img src="https://img.shields.io/twitter/follow/tomicriedel?logo=twitter&style=for-the-badge" alt="tomicriedel" /></a> </p>
-
 ## 📬 Contact me
 You can reach me via **[X/Twitter](https://twitter.com/tomicriedel)** or by writing a mail to **contact@tomicriedel.com**!
