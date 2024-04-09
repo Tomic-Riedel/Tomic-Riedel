@@ -9,7 +9,9 @@ I'm Tomic, a 16-year-old student living in the beautiful nature of Germany. I lo
 
 ## 🔗 Links
 [Medium](https://tomicriedel.medium.com)
+
 [Website](https://tomicriedel.com)
+
 [X/Twitter](https://twitter.com/tomicriedel)
 
 
