@@ -1,11 +1,11 @@
 # Hi 👋, I'm Tomic
- A 16-year-old coding enthusiast focusing primarily on App Development!
+ A coding enthusiast focusing primarily on App Development!
 
 <img src="https://github-readme-stats.vercel.app/api?username=tomic-riedel&show_icons=true&locale=en" alt="Tomic Riedel's GitHub Stats" />
 
 ## 🚀 About Me
 
-I'm Tomic, a 16-year-old student living in the beautiful nature of Germany. I love learning new things and helping others achieve their goals. I love to code things in my free time, especially apps in Dart & Flutter!
+I'm Tomic, a 17-year-old student living in the beautiful nature of Germany. I love learning new things and helping others achieve their goals. I love to code things in my free time, especially apps in Dart & Flutter!
 
 ## 🔗 Links
 [Medium](https://tomicriedel.medium.com)
